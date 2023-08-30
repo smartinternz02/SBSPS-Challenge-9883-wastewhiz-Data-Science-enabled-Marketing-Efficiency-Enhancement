@@ -16,9 +16,9 @@
         <li>
             <h3>P. Jivan Prasadd</h3>
             <h4>Course Badge : </h4>
-            <img src="https://example.com/jane-smith-badge.jpg" alt="Jivan's Course Badge">
+            <img src="./Badge/getting-started-with-enterprise-grade-ai.png" alt="Jivan's Course Badge" width="300" height="300">
             <h4>Certificate : </h4>
-            <img src="https://example.com/jane-smith-certificate.jpg" alt="Jivan's Certificate">
+            <img src="./Certificate/Getting_Started_with_Enterprise_grade_AI_Badge_2023_P_Jivan_Prasadd.pdf" alt="Jivan's Certificate">
             <h4>Public Badge Link : </h4>
             <a href="https://example.com/jane-smith-badge-link" target="_blank">View Jane Smith's Badge on Acme University</a>
         </li>
