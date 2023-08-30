@@ -9,18 +9,18 @@
             <h4>Course Badge : </h4>
             <img src="./Badge/getting-started-with-enterprise-grade-ai.png" alt="Manbendra's Course Badge" width="300" height="300">
             <h4>Certificate : </h4>
-            <a href="./Certificate/Getting_Started_with_Enterprise_grade_AI_Badge_2023_Manbendra_Satpathy.pdf" target="_blank">Manbendra Satpathy's Certificate</a>
+            <a href="./Certificate/Getting_Started_with_Enterprise_grade_AI_Badge_2023_Manbendra_Satpathy.pdf">Manbendra Satpathy's Certificate</a>
             <h4>Public Badge Link : </h4>
-            <a href="https://example.com/john-doe-badge-link" target="_blank"></a>
+            <a href="https://www.credly.com/badges/79344af2-a3f7-4aa5-a10d-46670f47cc5d/public_url" target="_blank">Manbendra Satpathy's Badge</a>
         </li>
         <li>
             <h3>P. Jivan Prasadd</h3>
             <h4>Course Badge : </h4>
             <img src="./Badge/getting-started-with-enterprise-grade-ai.png" alt="Jivan's Course Badge" width="300" height="300">
             <h4>Certificate : </h4>
-            <img src="./Certificate/Getting_Started_with_Enterprise_grade_AI_Badge_2023_P_Jivan_Prasadd.pdf" alt="Jivan's Certificate">
+            <a href="./Certificate/Getting_Started_with_Enterprise_grade_AI_Badge_2023_P_Jivan_Prasadd.pdf">P. Jivan Prasadd's Certificate</a>
             <h4>Public Badge Link : </h4>
-            <a href="https://example.com/jane-smith-badge-link" target="_blank"></a>
+            <a href="https://www.credly.com/badges/4bdcba21-f48f-434d-9f0c-0f3ee026c4fa/public_url" target="_blank">P. Jivan Prasadd's Badge</a>
         </li>
     </ul>
 
