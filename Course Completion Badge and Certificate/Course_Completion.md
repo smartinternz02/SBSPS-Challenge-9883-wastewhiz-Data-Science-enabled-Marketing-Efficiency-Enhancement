@@ -7,7 +7,7 @@
         <li>
             <h3>Manbendra Satpathy</h3>
             <h4>Course Badge : </h4>
-            <img src="./Badge/getting-started-with-enterprise-grade-ai.png" alt="Manbendra's Course Badge">
+            <img src="./Badge/getting-started-with-enterprise-grade-ai.png" alt="Manbendra's Course Badge" width="200" height="150">
             <h4>Certificate : </h4>
             <img src="https://example.com/john-doe-certificate.jpg" alt="Manbendra'sCertificate">
             <h4>Public Badge Link : </h4>
