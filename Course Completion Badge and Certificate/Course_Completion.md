@@ -9,7 +9,7 @@
             <h4>Course Badge : </h4>
             <img src="./Badge/getting-started-with-enterprise-grade-ai.png" alt="Manbendra's Course Badge" width="300" height="300">
             <h4>Certificate : </h4>
-            <a href="./Certificate/Getting_Started_with_Enterprise_grade_AI_Badge_2023_Manbendra_Satpathy.pdf" target="_blank" alt="Manbendra's Certificate"></a>
+            <a href="./Certificate/Getting_Started_with_Enterprise_grade_AI_Badge_2023_Manbendra_Satpathy.pdf" target="_blank">Manbendra Satpathy's Certificate</a>
             <h4>Public Badge Link : </h4>
             <a href="https://example.com/john-doe-badge-link" target="_blank"></a>
         </li>
